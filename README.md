@@ -12,25 +12,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RahmaRadwan&theme=gruvbox" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=RahmaRadwan&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rahma-radwan-youssef-91078a353/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="rahma-radwan" height="30" width="40" />
+  <a href="mailto:RahmaRadwan0402@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:RahmaRadwan0402@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="email" height="30" width="40" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rahma-radwan-youssef-91078a353/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://portofolio-six-rosy.vercel.app/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Globe.svg" alt="portfolio" height="30" width="40" />
+  &nbsp;
+  <a href="https://portofolio-six-rosy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -77,16 +75,16 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahmaRadwan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahmaRadwan&show_icons=true&theme=react&hide_border=false&locale=en" alt="Rahma's GitHub Stats" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahmaRadwan&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RahmaRadwan&theme=react&hide_border=false" alt="Rahma's GitHub Streak" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahmaRadwan&" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahmaRadwan&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
