@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RahmaRadwan&label=Profile%20Views&color=0e75b6&style=flat" alt="RahmaRadwan" />
+  <img src="https://komarev.com/ghpvc/?username=RahmaRadwan0402&label=Profile%20Views&color=0e75b6&style=flat" alt="RahmaRadwan0402" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahmaRadwan&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RahmaRadwan0402&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -76,15 +76,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahmaRadwan&show_icons=true&theme=react&hide_border=false&locale=en" alt="Rahma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahmaRadwan0402&show_icons=true&theme=react&hide_border=false&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RahmaRadwan&theme=react&hide_border=false" alt="Rahma's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RahmaRadwan0402&theme=react&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahmaRadwan&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahmaRadwan0402&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
